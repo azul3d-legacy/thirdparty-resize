@@ -1,5 +1,4 @@
-Azul3D thirdparty/resize package.
+This package ended up here by mistake. Do not use it!
 
-See documentation online:
-  http://www.azul3d.org/packages.html
-
+Per backwards compatability agreements -- we won't delete it, but
+we beg you not to use it.
